@@ -1,0 +1,12 @@
+html{
+box-sizing: border-box;
+}
+
+header{
+  color: #222;
+}
+
+h1{
+font-size: 1.5rem;
+  color: #555;
+}
